@@ -1,0 +1,14 @@
+path: ./dataset
+train: images/train
+val: images/val
+
+nc: 7
+
+names:
+  - OxygenTank
+  - NitrogenTank
+  - FirstAidBox
+  - SafetySwitchPanel
+  - FireExtinguisher
+  - FireAlarm
+  - EmergencyPhone
